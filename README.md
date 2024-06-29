@@ -1,5 +1,5 @@
 # set-up-juice-shop
-Prosses to set a Dame Vgurnable Most  Integrated Application
+1 Prosses to set a Dame Vgurnable Most  Integrated Application
 
  The first thing first is to select a correct plateform or the host 
  Here I am using a fresh Debian Always go with the Genome
@@ -21,7 +21,11 @@ Follwo up the above repo
 
 we need Wget or Curl command for the above Packages
 
+2 Select the location
+
 then after this go to your /opt folder
+
+3  install 
 
 Run git clone https://github.com/juice-shop/juice-shop.git --depth 1 (or clone your own fork of the repository)
 
